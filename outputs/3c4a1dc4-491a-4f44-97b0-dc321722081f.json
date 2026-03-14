@@ -1,0 +1,45 @@
+{
+  "job_id": "3c4a1dc4-491a-4f44-97b0-dc321722081f",
+  "language": "en",
+  "text": "The stale smell of old beer lingers. It takes heat to bring out the odor. A cold dip restores health and zest. A salt pickle tastes fine with ham. Tacos al pastor are my favorite. A zestful food is the hot cross bun.",
+  "segments": [
+    {
+      "start": 1.11,
+      "end": 3.91,
+      "text": "The stale smell of old beer lingers."
+    },
+    {
+      "start": 3.91,
+      "end": 6.52,
+      "text": "It takes heat to bring out the odor."
+    },
+    {
+      "start": 6.52,
+      "end": 9.62,
+      "text": "A cold dip restores health and zest."
+    },
+    {
+      "start": 9.62,
+      "end": 12.24,
+      "text": "A salt pickle tastes fine with ham."
+    },
+    {
+      "start": 12.24,
+      "end": 14.61,
+      "text": "Tacos al pastor are my favorite."
+    },
+    {
+      "start": 14.61,
+      "end": 17.68,
+      "text": "A zestful food is the hot cross bun."
+    }
+  ],
+  "metadata": {
+    "model": "small",
+    "source": "harvard 2.wav",
+    "device": "cpu",
+    "chunks": 1,
+    "inter_threads": 2,
+    "intra_threads": 2
+  }
+}
